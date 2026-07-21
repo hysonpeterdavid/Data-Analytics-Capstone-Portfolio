@@ -7,7 +7,15 @@ This repository showcases my contribution to a team-based analytics capstone pro
 The project explored how data analytics can support a streaming platform's transition from a free, advertising-supported model to a subscription-based business model. The analysis involved data preparation, database development, exploratory analysis and dashboard creation to generate customer and business insights.
 
 ---
+## Dashboard Preview
 
+### Executive Summary Dashboard
+
+This dashboard provides an overview of key business metrics, customer behaviour and subscription readiness insights.
+
+![Executive Summary Dashboard](01%20Power%20BI%20Dashboard%20Screenshots/01-Excutive-Summary-Dashboard-Streamflix.jpg)
+
+---
 ## Project Objectives
 
 The project aimed to:
