@@ -84,39 +84,10 @@ The following dashboards demonstrate how the project transformed data into busin
 
 Provides an overview of key business metrics and performance indicators.
 
-![Executive Summary Dashboard](01 Power BI Dashboard Screenshots/01-Excutive Summary Dashboard-Streamflix.jpg)
+![01-Excutive Summary Dashboard-Streamflix.jpg](01 Power BI Dashboard Screenshots/01-Excutive Summary Dashboard-Streamflix.jpg)
 
 ---
 
-### 2. Content Investment Strategy Dashboard
-
-Highlights content performance and supports investment decision-making.
-
-![Content Investment Strategy Dashboard]("01 Power BI Dashboard Screenshots/02-Conetnt-Investment-Strategy-Dashboard-Streamflix.jpg")
-
----
-
-### 3. User Profile Dashboard
-
-Explores customer demographics and user behaviour patterns.
-
-![User Profile Dashboard](01 Power BI Dashboard Screenshots/03-User-Profile-Dashboard-Streamflix.jpg)
-
----
-
-### 4. Customer Segmentation Dashboard
-
-Shows customer segments to support targeted business strategies.
-
-![Customer Segmentation Dashboard](images/04-customer-segmentation-dashboard.jpg)
-
----
-
-### 5. Subscription Readiness & Growth Dashboard
-
-Illustrates customer readiness and growth opportunities for a subscription model.
-
-![Subscription Readiness & Growth Dashboard](images/05-subscription-readiness-growth-dashboard.jpg)
 ## Key Skills Demonstrated
 
 - Data Cleaning
