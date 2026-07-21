@@ -15,6 +15,7 @@ This dashboard provides an overview of key business metrics, customer behaviour 
 
 ![Executive Summary Dashboard](01%20Power%20BI%20Dashboard%20Screenshots/01-Excutive-Summary-Dashboard-Streamflix.jpg)
 
+
 ---
 ## Project Objectives
 
@@ -55,20 +56,18 @@ As part of a four-member team, my contributions included:
 ## Repository Structure
 
 ```
-images/
+01 Power BI Dashboard Screenshots/
 Dashboard screenshots
 
-powerbi/
-Power BI report
+02 Client Presentation Report (Business Insights)/
+Project documentation-Client report 
 
-python/
+03 Python Files/
 Python analysis notebooks
 
-sql/
+04 SQL Files/
 SQL analysis scripts
 
-docs/
-Project documentation
 ```
 
 ---
@@ -84,18 +83,6 @@ Business Problem
 → Business Insights
 
 ---
-## Dashboard Preview
-
-The following dashboards demonstrate how the project transformed data into business insights to support a subscription-based strategy.
-
-### 1. Executive Summary Dashboard
-
-Provides an overview of key business metrics and performance indicators.
-
-![01-Excutive Summary Dashboard-Streamflix.jpg](01 Power BI Dashboard Screenshots/01-Excutive Summary Dashboard-Streamflix.jpg)
-
----
-
 ## Key Skills Demonstrated
 
 - Data Cleaning
