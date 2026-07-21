@@ -92,7 +92,7 @@ Provides an overview of key business metrics and performance indicators.
 
 Highlights content performance and supports investment decision-making.
 
-![Content Investment Strategy Dashboard](01 Power BI Dashboard Screenshots/02-Conetnt-Investment-Strategy-Dashboard-Streamflix.jpg)
+![Content Investment Strategy Dashboard]("01 Power BI Dashboard Screenshots/02-Conetnt-Investment-Strategy-Dashboard-Streamflix.jpg")
 
 ---
 
